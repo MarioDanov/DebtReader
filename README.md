@@ -15,3 +15,6 @@ Credit data presentation using GUI
   > [DebtReader.cs](https://github.com/MarioDanov/DebtReader/blob/main/Reader/DebtReader.cs)
 * **Form2** - A Windows Form used to display credit data in table format.
   > [Form2](https://github.com/MarioDanov/DebtReader/blob/main/Reader/Form2.cs)
+
+## Test
+[Test_Credits](https://github.com/MarioDanov/DebtReader/blob/main/Test_Credits.txt)
